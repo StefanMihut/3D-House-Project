@@ -17,7 +17,7 @@
   - to be able to present a final product  
   ## About Project  
   This Project consists of building a 3D of a house/building based on a adress location  in the Flemish region of Belgium.  
-  The data used is [Lidar](https://fr.wikipedia.org/wiki/Lidar) data. This data is divied in 43 areas , each area is represented by an encoded raster geoTIFFs file(.tif) in two formats DSM and DTM  
+  The data used is [Lidar](https://en.wikipedia.org/wiki/Lidar) data. This data is divied in 43 areas , each area is represented by an encoded raster geoTIFFs file(.tif) in two formats DSM and DTM  
     
   ## Run Project 
   Requirements  
